@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/a69af56776524ae2a060232fec5d2c95/artifacts
+end_time: 1729501556591
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: a69af56776524ae2a060232fec5d2c95
+run_name: auspicious-wasp-14
+run_uuid: a69af56776524ae2a060232fec5d2c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501555464
+status: 3
+tags: []
+user_id: Surface

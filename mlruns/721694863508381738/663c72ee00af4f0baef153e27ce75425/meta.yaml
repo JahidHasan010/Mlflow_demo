@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/663c72ee00af4f0baef153e27ce75425/artifacts
+end_time: 1729501529684
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 663c72ee00af4f0baef153e27ce75425
+run_name: bemused-finch-646
+run_uuid: 663c72ee00af4f0baef153e27ce75425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501528731
+status: 3
+tags: []
+user_id: Surface

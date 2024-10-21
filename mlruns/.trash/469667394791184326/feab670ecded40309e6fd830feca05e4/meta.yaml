@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/feab670ecded40309e6fd830feca05e4/artifacts
+deleted_time: 1729501452777
+end_time: 1729500821376
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: feab670ecded40309e6fd830feca05e4
+run_name: unequaled-finch-103
+run_uuid: feab670ecded40309e6fd830feca05e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500765636
+status: 3
+tags: []
+user_id: Surface

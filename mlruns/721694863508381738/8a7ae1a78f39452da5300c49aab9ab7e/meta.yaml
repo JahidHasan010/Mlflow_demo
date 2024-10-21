@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/8a7ae1a78f39452da5300c49aab9ab7e/artifacts
+end_time: 1729501570530
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 8a7ae1a78f39452da5300c49aab9ab7e
+run_name: angry-fox-245
+run_uuid: 8a7ae1a78f39452da5300c49aab9ab7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501569577
+status: 3
+tags: []
+user_id: Surface

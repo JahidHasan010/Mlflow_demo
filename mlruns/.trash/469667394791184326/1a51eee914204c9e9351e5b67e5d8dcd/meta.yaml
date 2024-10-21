@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/1a51eee914204c9e9351e5b67e5d8dcd/artifacts
+deleted_time: 1729501452777
+end_time: 1729500879438
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 1a51eee914204c9e9351e5b67e5d8dcd
+run_name: invincible-crow-808
+run_uuid: 1a51eee914204c9e9351e5b67e5d8dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500821510
+status: 3
+tags: []
+user_id: Surface

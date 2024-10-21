@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/c03fac53e3124b5682e3c2bac9924806/artifacts
+end_time: 1729501569417
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: c03fac53e3124b5682e3c2bac9924806
+run_name: placid-frog-892
+run_uuid: c03fac53e3124b5682e3c2bac9924806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501568456
+status: 3
+tags: []
+user_id: Surface

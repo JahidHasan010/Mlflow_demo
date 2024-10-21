@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/00b0e81d78f04dd797fb44b45cb40ca0/artifacts
+deleted_time: 1729501452777
+end_time: 1729501418799
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 00b0e81d78f04dd797fb44b45cb40ca0
+run_name: charming-shrike-766
+run_uuid: 00b0e81d78f04dd797fb44b45cb40ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501410321
+status: 4
+tags: []
+user_id: Surface

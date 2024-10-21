@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/044cb8b500ba45ef9cb97c19b477c703/artifacts
+deleted_time: 1729501452777
+end_time: 1729501247733
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 044cb8b500ba45ef9cb97c19b477c703
+run_name: victorious-loon-942
+run_uuid: 044cb8b500ba45ef9cb97c19b477c703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501188815
+status: 3
+tags: []
+user_id: Surface

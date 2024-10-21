@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/6c8f3d9c59f84cf38480437a9da3e73f/artifacts
+end_time: 1729501523540
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 6c8f3d9c59f84cf38480437a9da3e73f
+run_name: brawny-snail-414
+run_uuid: 6c8f3d9c59f84cf38480437a9da3e73f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501522698
+status: 3
+tags: []
+user_id: Surface

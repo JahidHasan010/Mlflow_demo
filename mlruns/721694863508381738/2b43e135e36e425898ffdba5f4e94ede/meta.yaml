@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/2b43e135e36e425898ffdba5f4e94ede/artifacts
+end_time: 1729501537801
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 2b43e135e36e425898ffdba5f4e94ede
+run_name: intrigued-robin-312
+run_uuid: 2b43e135e36e425898ffdba5f4e94ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501536822
+status: 3
+tags: []
+user_id: Surface

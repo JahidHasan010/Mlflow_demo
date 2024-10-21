@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/a153bc20b52449ae8eac24ba11b46547/artifacts
+end_time: 1729501553298
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: a153bc20b52449ae8eac24ba11b46547
+run_name: debonair-cow-470
+run_uuid: a153bc20b52449ae8eac24ba11b46547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501551832
+status: 3
+tags: []
+user_id: Surface

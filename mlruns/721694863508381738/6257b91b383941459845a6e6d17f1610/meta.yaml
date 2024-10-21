@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/6257b91b383941459845a6e6d17f1610/artifacts
+end_time: 1729501526093
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 6257b91b383941459845a6e6d17f1610
+run_name: upset-trout-870
+run_uuid: 6257b91b383941459845a6e6d17f1610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501525370
+status: 3
+tags: []
+user_id: Surface

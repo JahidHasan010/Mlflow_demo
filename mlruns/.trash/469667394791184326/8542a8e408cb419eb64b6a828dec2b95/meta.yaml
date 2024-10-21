@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/8542a8e408cb419eb64b6a828dec2b95/artifacts
+deleted_time: 1729501452777
+end_time: 1729501309756
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 8542a8e408cb419eb64b6a828dec2b95
+run_name: debonair-whale-87
+run_uuid: 8542a8e408cb419eb64b6a828dec2b95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501247815
+status: 3
+tags: []
+user_id: Surface

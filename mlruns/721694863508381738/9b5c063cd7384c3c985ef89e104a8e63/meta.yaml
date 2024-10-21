@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/9b5c063cd7384c3c985ef89e104a8e63/artifacts
+end_time: 1729501520185
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 9b5c063cd7384c3c985ef89e104a8e63
+run_name: kindly-sponge-980
+run_uuid: 9b5c063cd7384c3c985ef89e104a8e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501519549
+status: 3
+tags: []
+user_id: Surface

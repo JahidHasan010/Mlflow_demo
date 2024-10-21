@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/03ac60dd4a9b43e394e3272c92bcaf72/artifacts
+end_time: 1729501535001
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 03ac60dd4a9b43e394e3272c92bcaf72
+run_name: illustrious-gull-117
+run_uuid: 03ac60dd4a9b43e394e3272c92bcaf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501533353
+status: 3
+tags: []
+user_id: Surface

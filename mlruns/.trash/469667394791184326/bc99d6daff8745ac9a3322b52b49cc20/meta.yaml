@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/bc99d6daff8745ac9a3322b52b49cc20/artifacts
+deleted_time: 1729501452777
+end_time: 1729501188699
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: bc99d6daff8745ac9a3322b52b49cc20
+run_name: defiant-shark-479
+run_uuid: bc99d6daff8745ac9a3322b52b49cc20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501140457
+status: 3
+tags: []
+user_id: Surface

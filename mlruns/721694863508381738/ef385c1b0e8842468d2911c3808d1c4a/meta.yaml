@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/ef385c1b0e8842468d2911c3808d1c4a/artifacts
+end_time: 1729501546387
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: ef385c1b0e8842468d2911c3808d1c4a
+run_name: fortunate-tern-780
+run_uuid: ef385c1b0e8842468d2911c3808d1c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501544711
+status: 3
+tags: []
+user_id: Surface

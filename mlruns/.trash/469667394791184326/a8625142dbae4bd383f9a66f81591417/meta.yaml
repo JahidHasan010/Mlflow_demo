@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/a8625142dbae4bd383f9a66f81591417/artifacts
+deleted_time: 1729501452777
+end_time: 1729501042736
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: a8625142dbae4bd383f9a66f81591417
+run_name: salty-asp-396
+run_uuid: a8625142dbae4bd383f9a66f81591417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500989091
+status: 3
+tags: []
+user_id: Surface

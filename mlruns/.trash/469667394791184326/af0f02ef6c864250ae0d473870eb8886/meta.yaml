@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/af0f02ef6c864250ae0d473870eb8886/artifacts
+deleted_time: 1729501447404
+end_time: 1729501418834
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: af0f02ef6c864250ae0d473870eb8886
+run_name: bold-snake-821
+run_uuid: af0f02ef6c864250ae0d473870eb8886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500703762
+status: 4
+tags: []
+user_id: Surface

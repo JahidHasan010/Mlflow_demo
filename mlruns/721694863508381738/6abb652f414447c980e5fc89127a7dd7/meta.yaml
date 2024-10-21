@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/6abb652f414447c980e5fc89127a7dd7/artifacts
+end_time: 1729501528616
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 6abb652f414447c980e5fc89127a7dd7
+run_name: gaudy-yak-307
+run_uuid: 6abb652f414447c980e5fc89127a7dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501527440
+status: 3
+tags: []
+user_id: Surface

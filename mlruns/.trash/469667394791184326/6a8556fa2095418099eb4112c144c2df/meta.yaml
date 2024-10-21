@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/6a8556fa2095418099eb4112c144c2df/artifacts
+deleted_time: 1729501452777
+end_time: 1729501091199
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 6a8556fa2095418099eb4112c144c2df
+run_name: sincere-stag-105
+run_uuid: 6a8556fa2095418099eb4112c144c2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501042828
+status: 3
+tags: []
+user_id: Surface

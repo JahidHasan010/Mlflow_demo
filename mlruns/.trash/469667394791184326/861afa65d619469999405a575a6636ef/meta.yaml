@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/861afa65d619469999405a575a6636ef/artifacts
+deleted_time: 1729501452777
+end_time: 1729500989013
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 861afa65d619469999405a575a6636ef
+run_name: illustrious-kit-657
+run_uuid: 861afa65d619469999405a575a6636ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500936086
+status: 3
+tags: []
+user_id: Surface

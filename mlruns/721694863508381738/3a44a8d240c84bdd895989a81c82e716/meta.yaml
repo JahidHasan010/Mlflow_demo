@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/3a44a8d240c84bdd895989a81c82e716/artifacts
+end_time: 1729501549912
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 3a44a8d240c84bdd895989a81c82e716
+run_name: bedecked-hen-629
+run_uuid: 3a44a8d240c84bdd895989a81c82e716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501548174
+status: 3
+tags: []
+user_id: Surface

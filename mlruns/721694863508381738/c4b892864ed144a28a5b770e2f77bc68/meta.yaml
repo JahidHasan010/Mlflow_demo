@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/c4b892864ed144a28a5b770e2f77bc68/artifacts
+end_time: 1729501521778
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: c4b892864ed144a28a5b770e2f77bc68
+run_name: amazing-boar-637
+run_uuid: c4b892864ed144a28a5b770e2f77bc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501521323
+status: 3
+tags: []
+user_id: Surface

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/74c5ec180e08440aaa72ddd396537120/artifacts
+end_time: 1729501518835
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 74c5ec180e08440aaa72ddd396537120
+run_name: unleashed-croc-617
+run_uuid: 74c5ec180e08440aaa72ddd396537120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501518050
+status: 3
+tags: []
+user_id: Surface

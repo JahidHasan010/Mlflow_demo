@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Surface/Desktop/data-science-project/ML-Project/Mlflow_demo/mlruns/0/126a601100eb4c5ea6032232fc2c1434/artifacts
+deleted_time: 1729370093707
+end_time: 1727376469218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 126a601100eb4c5ea6032232fc2c1434
+run_name: capable-snake-568
+run_uuid: 126a601100eb4c5ea6032232fc2c1434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727376454511
+status: 3
+tags: []
+user_id: Surface

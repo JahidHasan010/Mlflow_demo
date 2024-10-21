@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/79b2af2178dc4cfe89440f9da2b6d01b/artifacts
+end_time: 1729501524204
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 79b2af2178dc4cfe89440f9da2b6d01b
+run_name: bouncy-steed-237
+run_uuid: 79b2af2178dc4cfe89440f9da2b6d01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501523597
+status: 3
+tags: []
+user_id: Surface

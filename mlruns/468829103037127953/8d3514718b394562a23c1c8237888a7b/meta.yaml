@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/468829103037127953/8d3514718b394562a23c1c8237888a7b/artifacts
+end_time: 1729500007564
+entry_point_name: ''
+experiment_id: '468829103037127953'
+lifecycle_stage: active
+run_id: 8d3514718b394562a23c1c8237888a7b
+run_name: carefree-stoat-856
+run_uuid: 8d3514718b394562a23c1c8237888a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499922410
+status: 3
+tags: []
+user_id: Surface

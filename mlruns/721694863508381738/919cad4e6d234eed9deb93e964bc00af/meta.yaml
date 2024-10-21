@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/919cad4e6d234eed9deb93e964bc00af/artifacts
+end_time: 1729501544584
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 919cad4e6d234eed9deb93e964bc00af
+run_name: mercurial-midge-796
+run_uuid: 919cad4e6d234eed9deb93e964bc00af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501543020
+status: 3
+tags: []
+user_id: Surface

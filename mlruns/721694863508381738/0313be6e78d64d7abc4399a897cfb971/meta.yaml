@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/0313be6e78d64d7abc4399a897cfb971/artifacts
+end_time: 1729501557976
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 0313be6e78d64d7abc4399a897cfb971
+run_name: rebellious-horse-696
+run_uuid: 0313be6e78d64d7abc4399a897cfb971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501556701
+status: 3
+tags: []
+user_id: Surface

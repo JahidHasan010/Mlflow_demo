@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/623e26e8ecef4ad9b287692869dced2a/artifacts
+end_time: 1729501525327
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 623e26e8ecef4ad9b287692869dced2a
+run_name: funny-croc-13
+run_uuid: 623e26e8ecef4ad9b287692869dced2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501524239
+status: 3
+tags: []
+user_id: Surface

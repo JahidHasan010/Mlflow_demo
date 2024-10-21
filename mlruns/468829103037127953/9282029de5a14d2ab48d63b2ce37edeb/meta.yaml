@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/468829103037127953/9282029de5a14d2ab48d63b2ce37edeb/artifacts
+end_time: 1729499149298
+entry_point_name: ''
+experiment_id: '468829103037127953'
+lifecycle_stage: active
+run_id: 9282029de5a14d2ab48d63b2ce37edeb
+run_name: caring-mare-515
+run_uuid: 9282029de5a14d2ab48d63b2ce37edeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499058057
+status: 3
+tags: []
+user_id: Surface

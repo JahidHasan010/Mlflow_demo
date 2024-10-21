@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/61ed1a9e255b48ad918742c6fc28802c/artifacts
+end_time: 1729501566060
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 61ed1a9e255b48ad918742c6fc28802c
+run_name: rogue-midge-652
+run_uuid: 61ed1a9e255b48ad918742c6fc28802c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501565138
+status: 3
+tags: []
+user_id: Surface

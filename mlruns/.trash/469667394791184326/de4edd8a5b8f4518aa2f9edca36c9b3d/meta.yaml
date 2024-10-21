@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/de4edd8a5b8f4518aa2f9edca36c9b3d/artifacts
+deleted_time: 1729501452777
+end_time: 1729500765506
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: de4edd8a5b8f4518aa2f9edca36c9b3d
+run_name: overjoyed-pig-1
+run_uuid: de4edd8a5b8f4518aa2f9edca36c9b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500703998
+status: 3
+tags: []
+user_id: Surface

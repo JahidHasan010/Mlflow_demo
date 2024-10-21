@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Surface/Desktop/data-science-project/ML-Project/Mlflow_demo/mlruns/0/f983ef6d77604a83b2199c1d5cd5ae1e/artifacts
+deleted_time: 1729370093708
+end_time: 1727376278899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f983ef6d77604a83b2199c1d5cd5ae1e
+run_name: glamorous-cow-178
+run_uuid: f983ef6d77604a83b2199c1d5cd5ae1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727376259598
+status: 3
+tags: []
+user_id: Surface

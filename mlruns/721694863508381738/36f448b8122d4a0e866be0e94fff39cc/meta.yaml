@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721694863508381738/36f448b8122d4a0e866be0e94fff39cc/artifacts
+end_time: 1729501527387
+entry_point_name: ''
+experiment_id: '721694863508381738'
+lifecycle_stage: active
+run_id: 36f448b8122d4a0e866be0e94fff39cc
+run_name: bemused-shad-568
+run_uuid: 36f448b8122d4a0e866be0e94fff39cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501526955
+status: 3
+tags: []
+user_id: Surface

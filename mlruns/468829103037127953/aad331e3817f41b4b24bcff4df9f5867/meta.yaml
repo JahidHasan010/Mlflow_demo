@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/468829103037127953/aad331e3817f41b4b24bcff4df9f5867/artifacts
+end_time: 1729500011835
+entry_point_name: ''
+experiment_id: '468829103037127953'
+lifecycle_stage: active
+run_id: aad331e3817f41b4b24bcff4df9f5867
+run_name: outer
+run_uuid: aad331e3817f41b4b24bcff4df9f5867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499922410
+status: 3
+tags: []
+user_id: Surface

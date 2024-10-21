@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/48d20c236f954dd4b05ae92f05fe6f9f/artifacts
+deleted_time: 1729501452777
+end_time: 1729501410280
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 48d20c236f954dd4b05ae92f05fe6f9f
+run_name: efficient-dove-746
+run_uuid: 48d20c236f954dd4b05ae92f05fe6f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729501357588
+status: 3
+tags: []
+user_id: Surface

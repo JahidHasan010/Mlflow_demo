@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/469667394791184326/6640a78679f148b899efaeee5c2c4913/artifacts
+deleted_time: 1729501452777
+end_time: 1729500935927
+entry_point_name: ''
+experiment_id: '469667394791184326'
+lifecycle_stage: deleted
+run_id: 6640a78679f148b899efaeee5c2c4913
+run_name: valuable-smelt-592
+run_uuid: 6640a78679f148b899efaeee5c2c4913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729500879595
+status: 3
+tags: []
+user_id: Surface
